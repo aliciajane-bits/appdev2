@@ -1,0 +1,65 @@
+INTRODUCTION:
+As you already know, my name is Alicia Jane Medina, or you can call me Ali,
+just like my classmates and friends refer to me. From our previous lessons,
+while studying programming, I have basic knowledge of Python, which we learned
+during our Data Structures and Algorithm Course. I also know the basics of
+Java and MySQL, which we learned in our first years. I can say I have some
+back-end experience since we used Firebase during Application Development 1
+and Firebase is a type backend-as-a-service. I also know HTML, CSS, and the
+basics of Javascript in front-end development experience.
+
+
+COURSE EXPECTATION:
+My personal goals in this course are to either master the fundamentals of 
+backend programming or have a grasp of how to read and write backend development
+code. The skills that I hope to learn in this course are mainly about Databases,
+I want to have in-depth learning about it if not possible to master it. I have
+always been interested in handling data. I want to have an in-depth knowledge of
+how to design databases, write queries, and optimize performances. As a student
+who still doesn't have a clear career path in mind, backend development would be
+an asset for me. I hope to learn more about data handling and can see myself doing
+that professionally.
+
+
+CHALLENGES AND AREAS FOR IMPROVEMENT:
+My personal goals in this course are to either master the fundamentals of backend
+programming or have a grasp of how to read and write backend development code.
+Specifically, I want to master the skills that compromise data handling. Learning
+to read and write backend development, will enable me to understand the integration
+of databases on websites, etc. 
+
+The skills that I hope to learn in this course are mainly about databases,
+specifically data handling. I want to have in-depth learning about it and if
+possible I want to master all the skills regarding data handling. I have always
+been interested in organizing and information handling. Upon learning about
+databases during our first years in the Information Management Course, I was
+thrilled and considered taking Data Analyst or Database Administrator as my
+career job.
+
+What I expect to learn in this course is to have an in-depth knowledge of how
+to design databases, learn how to create schemas, write CRUD queries, and
+understand the concept of optimizing performances. As a student who still doesn't
+have a clear career path in mind, backend development would be an asset for me.
+I can be open to a lot of career choices especially since I haven't yet decided
+what to pursue upon graduating, God willing. I hope to learn more about data
+handling and can see myself doing that professionally.
+
+
+EXPECTATION FROM THE INSTRUCTOR:
+My expectation from Sir Elmer as an instructor would be selfish, I would love it
+if the teaching techniques, methods, style, and tools would remain the same.
+The teaching styles and techniques being utilized are already the best for me.
+I am compatible with working under the current teaching methods presented by
+Sir Elmer. To further aid my learning and understanding of the course, I recommend
+having regular longer breaks. I think it would be beneficial for me to have longer
+regular breaks since I can rest my brain and this will also give me more time to
+process and understand the lessons properly.
+
+
+FINAL THOUGHTS:
+As I have stated earlier, my direct interest lies specifically in data handling.
+I know that backend development is a broad topic to learn in under 2 months for
+only 4 hours a week, thus having to master data handling and database and earning
+in-depth knowledge about that would not be possible. I would love it if there were
+a list of areas to explore even though it is not part of the course lessons
+(specifically in data handling).
