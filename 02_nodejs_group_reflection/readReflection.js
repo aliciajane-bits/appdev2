@@ -1,11 +1,11 @@
-const fs = require('fs');
+const fs = require('fs').promises;
 
 const fileName = 'reflection.txt';
 
-fs.readFile(fileName, 'utf8', (err, data) => {
-    if (err) {
-        console.error('Error:', err.message);
-        return;
-    }
-    console.log('File Contents:\n', data);
-});
+async function readFileAsync() {
+    const data = await fs.readFile(fileName, 'utf8'); // Read file asynchronously
+        console.log('File Contents:\n', data); 
+}
+
+readFileAsync();
+    
