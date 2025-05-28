@@ -1,5 +1,5 @@
 {
-  "name": "08_simple_book_api",
+  "name": "09_simple_book_api_with_mongodb",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
