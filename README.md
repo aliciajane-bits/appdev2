@@ -2,7 +2,7 @@ cat > README.md <<EOF
 # Simple Book API
 
 ## ✅ Deployment URL
-https://your-app-url.onrender.com
+https://testing.onrender.com
 
 ## 📖 Features
 - CRUD for Books
